@@ -1,0 +1,18 @@
+.button {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  width: 320px;
+  height: 60px;
+  justify-content: space-around;
+  align-items: center;
+  background: black;
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  color: #fff;
+}
+
+.number {
+  color: green;
+}
